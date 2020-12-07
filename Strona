@@ -1,8 +1,10 @@
+  
 <html>
-                       <span style="color: red">TAEKWONDO</span>
+                                  
+                                               <center><span style="color: red">TAEKWONDO</span><center>
 
-<title> Tytuł strony </title>
-<link rel = "stylesheet" href = "styl.css" type = "text / css" />
+<p><title> Tytuł strony </title></p>
+<link rel = "stylesheet" href = "styl.css" type = "text / css" /
 </head>
 
 <body>
@@ -12,7 +14,7 @@
 
 
 <sekcja><artykuł> <p> 
-                                                 <b>„Podstawowa ideą jest przezwyciężyć samego siebie. Ze sobą walka jest najtrudniejsza”</b> – Choi Hong-hi
+                                 <b>„Podstawowa ideą jest przezwyciężyć samego siebie. Ze sobą walka jest najtrudniejsza”</b> – Choi Hong-hi
 <sekcja><artykuł> <p> 
 
  Taekwondo jest to narodowy sport i tradycyjna sztuka walki Korei.
@@ -85,12 +87,12 @@ Jest to nawiązanie do myśli, którą rozwijał generał Choi, że „nawet naj
 
 Taekwondo – ponieważ jest najlepiej opisaną sztuką walki – jest też jedną z najmniej kontuzyjnych metod samoobrony. <br>
 Będzie doskonałym wyborem dla wszystkich, którzy chcą poprawić swoją sprawność fizyczną, a nie chcą, by ich ciało się nadmiernie rozrastało <br>
-(w przeciwieństwie chociażby do judo, w którym treningi wymagają siły, a ciało zawodników robi się krępe).><br>
+(w przeciwieństwie chociażby do judo, w którym treningi wymagają siły, a ciało zawodników robi się krępe).<br>
 
 <Trenując taekwondo, ćwiczymy bowiem pamięć.
  Taekwondo powinno wychowywać, uczyć szacunku do innych, a także do pracy swojego ciała.><p>Trenując taekwondo, ćwiczymy bowiem pamięć.<br>
- Taekwondo powinno wychowywać, uczyć szacunku do innych, a także do pracy swojego ciała.</p> </ Trenując taekwondo, ćwiczymy bowiem pamięć.<br>
-Taekwondo powinno wychowywać, uczyć szacunku do innych, a także do pracy swojego ciała.><br>
+
+Taekwondo powinno wychowywać, uczyć szacunku do innych, a także do pracy swojego ciała.<br>
 
 </body>
 
