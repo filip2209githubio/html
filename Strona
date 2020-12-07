@@ -1,4 +1,3 @@
-   
 <html>
                                 
                                                <center><span style="color: red"><span style="font-size: xx-large">TAEKWONDO</span></span><center>
@@ -6,7 +5,7 @@
 <p><title> Tytuł strony </title></p>
 <link rel = "stylesheet" href = "styl.css" type = "text / css" /
 </head>
-
+<img src="taekwondo1.jpg" alt="kopanie" />
 <body>
 
 
@@ -93,4 +92,6 @@ Poza założeniami filozoficzno-moralnymi i technikami walki podstawę taekwondo
 
 </body>
 
-</html> 
+<img src="taekwondo.jpg" alt="kopanie" />
+
+</html>   
