@@ -1,26 +1,20 @@
-<!doctype html>
 <html>
-     <head>
-          <meta charset="UTF-8" />
-          <title>Tytuł strony...</title>
-     </head>
-     <body>
-          <header>
-               Nagłówek
-          </header>
-          <nav>
-               Menu główne
-          </nav>
-          <section>
-               <article>
-                    Zawartość artykułu
-               </article>
-          </section>
-          <aside>
-               Kolumna boczna
-          </aside>
-          <footer>
-               Stopka
-          </footer>
-     </body>
+
+<naglowek>
+<title>Tytuł strony</title>
+<link rel="stylesheet" href="styl.css" type="text/css" />
+</head>
+
+<body>
+
+<naglowek><p>naglowek</p></naglowek>
+
+<section><article><p>To jest nasza nowa strona
+internetowa.</p></article></section>
+<podpunkt><p>podpunkt</p></podpunkt>
+
+<koniec><p>koniec</p></koniec>
+
+</body>
+
 </html>
