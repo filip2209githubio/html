@@ -1,7 +1,7 @@
   
 <html>
-                                  
-                                               <center><span style="color: red">TAEKWONDO</span><center>
+                                
+                                               <center><span style="color: red"><span style="font-size: xx-large">TAEKWONDO</span></span><center>
 
 <p><title> Tytuł strony </title></p>
 <link rel = "stylesheet" href = "styl.css" type = "text / css" /
@@ -10,17 +10,17 @@
 <body>
 
 
-<sekcja><artykuł> <p>                                                                         <span style="color: navy">Co to jest taekwondo?</span>
+<sekcja><artykuł> <p>                                                                         <span style="color: navy"><span style="font-size: xx-large">Co to jest taekwondo?</span>
 
 
 <sekcja><artykuł> <p> 
                                  <b>„Podstawowa ideą jest przezwyciężyć samego siebie. Ze sobą walka jest najtrudniejsza”</b> – Choi Hong-hi
 <sekcja><artykuł> <p> 
 
- Taekwondo jest to narodowy sport i tradycyjna sztuka walki Korei.
+ <span style="font-size: large">Taekwondo jest to narodowy sport i tradycyjna sztuka walki Korei.
 <sekcja><artykuł> <p> 
 
-Początkowo zostało stworzone do celów militarnych, następnie zostało zaadaptowane do użytku cywilnego, jego twórcą jest gen. Choi Hong-hi. <br>
+ <span style="font-size: large">Początkowo zostało stworzone do celów militarnych, następnie zostało zaadaptowane do użytku cywilnego, jego twórcą jest gen. Choi Hong-hi. <br>
 
 Obecnie jest jedną z pełnoprawnych dyscyplin olimpijskich.arodowy sport i tradycyjna sztuka walki Korei.Taekwondo jest walką bez użycia broni, charakteryzuje się dużą ilością wysokich kopnięć.<br> 
 
@@ -34,7 +34,7 @@ Przyrządy treningowe stosowane w taekwondo, to worki, tarcze oraz charakterysty
 
 </p> </article> </section>
 
-<W taekwondo wszystko jest po coś. Każdy ruch ma swój cel sposób wykonania i metodykę nauczania. Każdy ruch, każde kopnięcie, kąt uderzenia, kąt bloku, kąt skręcenia nogi –
+<span style="font-size: large"><W taekwondo wszystko jest po coś. Każdy ruch ma swój cel sposób wykonania i metodykę nauczania. Każdy ruch, każde kopnięcie, kąt uderzenia, kąt bloku, kąt skręcenia nogi –
 jest dokładnie przeanalizowany naukowo i służy określonemu celowi.<br>
  Spośród wszystkich sztuk walki taekwondo jest dziedziną najlepiej opisaną i charakteryzuje się największą ilością kopnięć czy ogólnie mówiąc – technik nożnych.<br>
 
@@ -87,13 +87,19 @@ Jest to nawiązanie do myśli, którą rozwijał generał Choi, że „nawet naj
 
 Taekwondo – ponieważ jest najlepiej opisaną sztuką walki – jest też jedną z najmniej kontuzyjnych metod samoobrony. <br>
 Będzie doskonałym wyborem dla wszystkich, którzy chcą poprawić swoją sprawność fizyczną, a nie chcą, by ich ciało się nadmiernie rozrastało <br>
-(w przeciwieństwie chociażby do judo, w którym treningi wymagają siły, a ciało zawodników robi się krępe).<br>
+(w przeciwieństwie chociażby do judo, w którym treningi wymagają siły, a ciało zawodników robi się krępe).</span><br>
 
-<Trenując taekwondo, ćwiczymy bowiem pamięć.
- Taekwondo powinno wychowywać, uczyć szacunku do innych, a także do pracy swojego ciała.><p>Trenując taekwondo, ćwiczymy bowiem pamięć.<br>
 
-Taekwondo powinno wychowywać, uczyć szacunku do innych, a także do pracy swojego ciała.<br>
+<span style="color: red"><u>Trenując taekwondo, ćwiczymy bowiem pamięć.</u</span>
+
+
+ <u>Taekwondo powinno wychowywać, uczyć szacunku do innych, a także do pracy swojego ciała.<p>Trenując taekwondo, ćwiczymy bowiem pamięć.</u>
+<br>
+
+
+<u>Taekwondo powinno wychowywać, uczyć szacunku do innych, a także do pracy swojego ciała.</u>
+<br>
 
 </body>
 
-</html>
+</html>  
